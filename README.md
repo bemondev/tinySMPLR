@@ -18,7 +18,7 @@ Lightweight audio sampler and playback tool built with Svelte and WaveSurfer.js.
 - [Tailwind](https://tailwindcss.com/) / [DaisyUI](https://daisyui.com/) for Styling.
 - [Lucide](https://lucide.dev/) for icons.
 ## Demo
-Live demo can be found at the following [link](https://bemondev.github.io/tinysmplr)
+Live demo can be found at the following [link](https://bemondev.github.io/tinySMPLR/)
 
 ![Demo](https://i.postimg.cc/8c3cphqs/tiny-SMPLRdemo.gif)
 ## Local install
